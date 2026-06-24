@@ -1,3 +1,3 @@
-# Vibe_Coded
+# OpenFoam_GUI
 
-I used chatbots to help me complete these projects.
+A python addon for blender to assist in simulations of OpenFoam
